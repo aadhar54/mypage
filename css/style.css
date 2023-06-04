@@ -1,0 +1,17 @@
+body{
+    background-color: #e0ebe8;
+}
+
+h3, h2, h1{
+    color: #19a499;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr{
+    width: 4%;
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: grey;
+    border-width: 5px;
+}
